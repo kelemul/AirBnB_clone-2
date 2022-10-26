@@ -9,7 +9,7 @@ This project is done by kelemu leykun to practice the holberton Web application 
 , that integrates the database engine and the back-end API along with the front end HTML cloned from the AirBnB project.
 
 to do thaT WE HAVE CREATED A CONSOLE INTERPRATOR
- ## The Console :console:
+ ## The Console :computer:
 
 ```
 $ echo "help" | ./console.py
