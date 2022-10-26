@@ -1,6 +1,6 @@
 <p align ="center">
 
-<img src="https://github.com/bdbaraban/AirBnB_clone/blob/master/assets/hbnb_logo.png" width="50%" alt="hb logo"/>
+<img src="https://github.com/kelemul/AirBnB_clone/raw/main/tests/assets/hbnb_logo.png" width="50%" alt="hb logo"/>
 
 </p>
 
