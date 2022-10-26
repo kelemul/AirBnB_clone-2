@@ -1,6 +1,6 @@
 <p align ="center">
 
-<img src="[https://github.com/kelemul/AirBnB_clone/blob/main/tests/ssets/hbtn.gif](https://github.com/kelemul/AirBnB_clone/blob/main/tests/assets/hbtn.gif)" alt="hb logo"/>
+<img src="https://github.com/kelemul/AirBnB_clone/blob/main/tests/assets/hbtn.gif" alt="hb logo"/>
 
 </p>
 
